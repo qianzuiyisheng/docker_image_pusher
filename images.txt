@@ -1,5 +1,5 @@
 java:8u111
-nginx:alpine`
+nginx:alpine
 redis:7.4
 mysql:5.7
 apache/rocketmq:4.9.2
