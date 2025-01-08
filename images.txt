@@ -1,3 +1,4 @@
+eclipse-temurin:8-jre
 java:8u111
 nginx:alpine
 redis:7.4
