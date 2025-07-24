@@ -1,8 +1,4 @@
-k8s.gcr.io/ingress-nginx/controller:v1.2.1
-registry.k8s.io/ingress-nginx/controller:v1.3.1
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.1.1
-k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
-python:3.9-slim
+eclipse-temurin:8-jre
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
