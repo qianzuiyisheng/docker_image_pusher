@@ -6,4 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 biarms/mysql:5.7
 --platform=linux/arm64 redis:7.4.5
+--platform=linux/arm64 foxiswho/rocketmq:4.8.0
 
