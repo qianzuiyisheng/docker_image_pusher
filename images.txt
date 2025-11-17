@@ -1,6 +1,9 @@
 
 #支持私库
 docker.n8n.io/n8nio/n8n
+rancher/rancher:v2.12.3
+rancher/mirrored-bci-micro:15.6.24.2
+rancher/shell:v0.5.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
