@@ -1,6 +1,6 @@
 
 #支持私库
-elasticsearch:8.14.0
+nacos/nacos-mysql:5.7
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
