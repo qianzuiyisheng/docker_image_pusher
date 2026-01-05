@@ -2,7 +2,7 @@
 #支持私库
 apache/skywalking-oap-server:10.1.0
 apache/skywalking-ui:10.1.0
-apache/skywalking-java-agent:9.3.0
+apache/skywalking-java-agent:9.4.0-java8
 nacos/nacos-mysql:5.7
 elasticsearch:7.17.0
 #支持指定架构
