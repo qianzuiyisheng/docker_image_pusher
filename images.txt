@@ -1,7 +1,5 @@
 
 #支持私库
-apache/skywalking-oap-server:9.4.0
-apache/skywalking-ui:9.4.0
-apache/skywalking-java-agent:9.4.0-java8
+postgres:14
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
