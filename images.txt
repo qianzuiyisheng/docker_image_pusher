@@ -1,6 +1,6 @@
 
 #支持私库
-postgres:14
-ghcr.io/alibaba/tengine:3.2.0
+emqx/emqx:5.8
+emqx/emqx:6.2.3
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
