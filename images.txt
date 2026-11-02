@@ -1,6 +1,7 @@
 
 #支持私库
-emqx/emqx:5.8
-emqx/emqx:6.2.3
+bitnami/zookeeper:3.8
+bitnami/kafka:2.8
+provectuslabs/kafka-ui:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
