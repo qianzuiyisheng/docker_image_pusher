@@ -1,7 +1,5 @@
 
 #支持私库
-bitnami/zookeeper:3.8
-bitnami/kafka:2.8
-provectuslabs/kafka-ui:latest
+mariadb:10.8.2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
