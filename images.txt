@@ -1,5 +1,5 @@
 
 #支持私库
-mariadb:10.8.2
+minio/minio:RELEASE.2025-04-22T22-12-26Z
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
